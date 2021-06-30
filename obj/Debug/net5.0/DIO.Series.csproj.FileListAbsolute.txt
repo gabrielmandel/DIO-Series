@@ -1,0 +1,16 @@
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Desenvolvimento-Gabriel\aulas-c-sharp\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
